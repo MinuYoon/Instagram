@@ -1,6 +1,8 @@
 # [•] Instagram [•]
 
-![ ] (IMG-20220306-WA0000.jpg)
+<p align="center">
+   <img src="https://raw.githubusercontent.com/MinuYoon/Instagram/master/img/IMG-20220306-WA0000.jpg" width=1000>
+
 
 [•] Cara install scrip [•]
 
