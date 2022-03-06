@@ -1,5 +1,7 @@
 # [•] Instagram [•]
 
+![] (IMG-20220306-WA0000.jpg)
+
 [•] Cara install scrip [•]
 
 [•] pkg install python
